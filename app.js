@@ -27,9 +27,10 @@ CalcolaPrezzobBtn.addEventListener("click", function () {
     } else 
         prezzoFinale.innerHTML = `Il prezzo finale del biglietto è di ${prezzoBiglietto.toFixed(2)}€`;
     
+        
     console.log(prezzoFinale);
     
-    
+
 });
 
 
